@@ -12,10 +12,10 @@ The python file also generates constraint_sdc for synthesising in genus flow.
 ## Schematic
 
 ### PWL Implementation 
-![Image](https://github.com/Bhuvan506/PWL-Approximation-for-nth-root-of-R/blob/main/images/schematic1.png)
+![Image](https://github.com/Bhuvan506/PWL-Approximation-for-nth-root-of-R/blob/main/images/Schematic1.png)
 
 ### Multiplier
-![Image](https://github.com/Bhuvan506/PWL-Approximation-for-nth-root-of-R/blob/main/images/schematic2.png)
+![Image](https://github.com/Bhuvan506/PWL-Approximation-for-nth-root-of-R/blob/main/images/Schematic2.png)
 
 
 # Matlab
