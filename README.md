@@ -7,6 +7,22 @@ The python file also generates constraint_sdc for synthesising in genus flow.
 
 The pwl_kbinputs.v, contraints_sdc has the modules designed for 10 segments.
 
-The above design was synthesized using genus with gpdk 45nm tehcnology node. Genus_report folder contains the report for the same.
-
 We have done matlab simulations for various values of n as shown below.
+
+R<sup>(1\2)</sup>
+![Image](https://github.com/Bhuvan506/PWL-Approximation-for-nth-root-of-R/blob/main/Simulations/root2.png)
+
+R<sup>(1\3)</sup>
+![Image](https://github.com/Bhuvan506/PWL-Approximation-for-nth-root-of-R/blob/main/Simulations/root3.png)
+
+R<sup>(1\5)</sup>
+![Image](https://github.com/Bhuvan506/PWL-Approximation-for-nth-root-of-R/blob/main/Simulations/root5.png)
+
+R<sup>(1\15)</sup>
+![Image](https://github.com/Bhuvan506/PWL-Approximation-for-nth-root-of-R/blob/main/Simulations/root15.png)
+
+The above design was synthesized using genus with gpdk 45nm tehcnology node. Genus_report folder contains the report for the same
+
+.
+
+
