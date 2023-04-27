@@ -36,7 +36,18 @@ We have done matlab simulations for various values of n as shown below.
 
 # Genus Flow
 
-The above design was synthesized using genus with gpdk 45nm tehcnology node. Genus_report folder contains the report for the same
+## Run Genus flow
+```
+csh
+source new_cshrc_hep    #opens cadence terminal
+genus -legacy_ui
+source script.tcl
+```
+
+This repo contains the gpdk 45nm file. Genus sysnthesis flow can be done if the cadence is already setup in the pc by running the above commands.
+
+The above design was synthesized using genus with gpdk 45nm tehcnology node. Genus_report folder contains the report for the same.
+All_reports folder contains the genus reports generated for various clock frequencies.
 
 The reports are sumamrized in the below table:
 
