@@ -43,6 +43,10 @@ The reports are sumamrized in the below table:
 ![Image](https://github.com/Bhuvan506/PWL-Approximation-for-nth-root-of-R/blob/main/images/table.png)
 
 
+# Timing Summary
+
+![Image](https://github.com/Bhuvan506/PWL-Approximation-for-nth-root-of-R/blob/main/images/Summary.png)
+
 
 
 
